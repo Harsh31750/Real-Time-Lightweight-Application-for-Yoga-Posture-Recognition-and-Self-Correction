@@ -100,10 +100,10 @@ This application implements a real-time posture analysis and correction pipeline
 
 🔧 Technology Stack
 
-* "Frontend": React.js, React Bootstrap
-* "Backend": Python, Flask, Socket.IO
-* "Pose Estimation": MediaPipe
-* "ML Models": CNN (classification), k-NN (pose matching)
+* Frontend: React.js, React Bootstrap
+* Backend: Python, Flask, Socket.IO
+* Pose Estimation: MediaPipe
+* ML Models: CNN (classification), k-NN (pose matching)
 
 ---
 
